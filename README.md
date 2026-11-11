@@ -1,1 +1,4 @@
-# git-github-practice-quantia
+# Practica Git en equipo
+
+## Integrantes
+- Stephanie Morales
