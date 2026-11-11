@@ -2,3 +2,4 @@
 
 ## Integrantes
 - Stephanie Morales
+- Pablo Prieto
