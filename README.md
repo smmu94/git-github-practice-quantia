@@ -8,4 +8,4 @@
 - (Practica de ramas, merges y Pull Requests)
 
 ## Tecnologias
-- (pendiente)
+- (HTML y CSS)
