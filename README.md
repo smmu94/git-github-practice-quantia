@@ -5,7 +5,7 @@
 - Pablo Prieto
 
 ## Descripcion
-- (pendiente)
+Repositorio para practicar Git en equipo.
 
 ## Tecnologias
 - (pendiente)
