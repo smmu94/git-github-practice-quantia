@@ -9,3 +9,5 @@
 
 ## Tecnologias
 - (HTML y CSS)
+- Git y GitHub
+
