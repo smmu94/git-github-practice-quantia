@@ -5,7 +5,7 @@
 - Pablo Prieto
 
 ## Descripcion
-- (pendiente)
+- (Practica de ramas, merges y Pull Requests)
 
 ## Tecnologias
 - (pendiente)
