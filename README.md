@@ -8,4 +8,4 @@
 Repositorio para practicar Git en equipo.
 
 ## Tecnologias
-- (pendiente)
+- Git y GitHub
