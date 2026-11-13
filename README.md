@@ -21,3 +21,5 @@
 - `main`: versión estable. Solo recibe cambios desde `develop`.
 - `develop`: aquí se junta el trabajo nuevo.
 - `feature/*`: una rama por tarea. Sale de `develop`y vuelve a `develop
+
+Al mergear una feature, su rama se borra.
